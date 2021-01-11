@@ -12,9 +12,9 @@ figlet "MR.KALIT09"
 sleep 2
 echo
 echo  $bi"[•]▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁[•]"$bi
-echo  $me"[•] $bi AUTHOR : MR.KALIT09$bi $me [•]"
-echo  $me" WHATSAPP ME: 0823-7780-4293"
-echo  $ku"MY GITHUB:https://github.com/.MRKALIT09"
+echo  $me"[•] $bi AUTHOR : MR.GEMBOR$bi $me [•]"
+echo  $me" WHATSAPP ME: +62 838-1609-9745"
+echo  $ku"MY GITHUB:https://github.com/MRGEMBOR"
 echo  $bi"[•]▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁$bi[•]"
 sleep 2
 echo $i"▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁"
